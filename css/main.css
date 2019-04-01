@@ -6,18 +6,43 @@ body,html{
     background: url(../img/maxresdefault.jpg);
     width: 100%;
     height: 100%;
-    padding: 80px;
     text-align: center;
-
 }
-.heading{
-    font-family: sans-serif;
+.judul{
+    font-family:inherit;
     font-size: 60px;
-    color: cadetblue;
+    color:#ff7e00;
     text-align: center;
     font-weight: bolder;
-    letter-spacing: 10px;
+    letter-spacing: 5px;
 }
-.body{
-    
+.sub-judul{
+    font-family:inherit;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.section2{
+    padding: 110px 0px;
+    background: #ffff;
+}
+.col-kiri{
+    background:#e5400c;
+    font-family: arial;
+    font-size: 20px;
+    color: #ffff;
+}
+.col-tengah{
+    background:#e65401;
+    font-family: arial;
+    font-size: 20px;
+    color: #ffff;
+}
+.col-kanan{
+    background:#b0a57f;
+    font-family: arial;
+    font-size: 20px;
+    color: #ffff;
 }
